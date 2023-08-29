@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.header-info{
+background-image: none;
+padding: 10px 0;
+border-bottom: 1px solid #ececec;
+font-size: 13px;
+line-height: 1;
+}
+  
+ .logo{
+    width: 180px;
+    min-width: 180px
+ } 
+
+ .search-bar{
+    width: 100%;
+    max-width: 683px;
+    font-size: 14px;
+
+ }
+
+.header-icon{
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+
+}
+
